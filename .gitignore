@@ -1,0 +1,21 @@
+
+# Ignores development broadcast logs
+/broadcast
+
+# Dotenv file
+.env
+
+.idea/
+.vscode/
+cache/
+out/*
+out/
+
+build/
+keys/
+state_for_db/
+
+coverage
+
+lumos-cli/lumos
+.env
